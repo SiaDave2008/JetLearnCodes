@@ -24,3 +24,24 @@ print(data)
 print(x)
 print(y)
 print(data)
+
+'''
+#HW:
+-----------------------
+ Supervised Learning:
+# labeled datasets to train algorithms to predict outcomes 
+# and recognize patterns with input-output pairs provided. 
+-----------------------
+ Unsupervised Learning:
+# unlabeled data to train algorithms to predict outcomes 
+# and find hidden patterns or structures
+-----------------------
+ Classification:
+# non-numerical data
+# catogorical or class-based interpretation
+-----------------------
+ Regression:
+# numerical data
+# relationship between independent variables
+# and dependent variable
+'''
